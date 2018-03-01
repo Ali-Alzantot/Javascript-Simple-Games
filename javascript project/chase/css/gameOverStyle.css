@@ -1,0 +1,19 @@
+body{
+    background-image: url("../img/bg.jpg");
+    text-align: center;
+    color: #FFF;
+}
+#cont{
+    margin-top: 200px;
+}
+
+#playAgainLink{
+    color: #FFF;
+    font-size: 40px;
+}
+#gameOverH{
+    font-size: 60px;
+}
+#scoreH{
+    font-size: 50px;
+}

@@ -1,0 +1,15 @@
+Simple magic card game 
+
+Made by abanoub samy salib .
+
+How To Play :
+Choose card from 21 cards don’t click on it  and memorize its number and shape in your mind 
+Then click next ,
+Now cards will be distributed in 3 columns ,choose the one where your card appear
+Repeat last step for more two times , then press show card the card you have chosen will appear .
+
+Note : 
+I used  already made library that draw cards and shuffling it and i put my logic to the game .
+ 
+
+
